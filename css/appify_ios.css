@@ -1,0 +1,13 @@
+/* @override 
+	http://appifywp.com/dev/wp-content/themes/appifyWP/css/appify_ios.css */
+
+#header {
+position: absolute;
+}
+
+.stickySidebar.fixed {
+top: 0;
+margin-top: 20px;
+position: absolute;
+width: 229px;
+}

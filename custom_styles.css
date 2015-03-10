@@ -1,0 +1,63 @@
+/* 
+APPIFYWP CUSTOM STYLES
+
+Add your custom styles here to tweak AppifyWP to you will. When you update the theme later on, just make sure you exclude this file so that you retain your custom styles
+
+I've added a few empty clases with labels to help you get started tweaking the most common elements
+
+If you have any questions like "how can i tweak x?", dont hesitate to email support@appifywp.com
+
+ */
+ 
+ 
+ 
+ 
+ /* Navigation Buttons */
+ .menu li a {}
+ 
+ .menu li a:hover {}
+ 
+ .menu li a.selected {}
+ 
+ 
+  /* Content Section on homepage...change the background image or padding */
+ .section {}
+ 
+ 
+ 
+ /*----------- iPhone & iPad slideshow top area ---------  */
+
+/* Your app name */
+h1 {
+}
+
+/* Your app tagline */
+.tagline {}
+ 
+/* Your app description */
+.caption {}
+ 
+ 
+/*----------- GENERAL STYLES ---------  */
+ 
+ 
+/* Section headers on homepage and single post pages */
+post h2, .page h2 {}
+ 
+h3 {}
+ 
+h4 {}
+
+p {}
+ 
+ 
+ 
+/* Footer. Change bg image or padding or colors */
+#footer {}
+ 
+#footer .copy {}
+
+
+
+
+/*----------- OTHER CUSTOM STYLES ---------  */
