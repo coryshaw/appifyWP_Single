@@ -1,9 +1,14 @@
-Welcome and thanks for purchasing AppifyWP! This is a premium WordPress theme designed for App developers to promote their apps online. If you need help you can email support@appifywp.com.
+# AppifyWP Single
+AppifyWP Single is a premium WordPress theme designed for App developers to promote their apps online. 
+
+Visit [appifywp.com](http://www.appifywp.com) for demos, info, and support forums.
+
+If you'd like to contribute, feel free to send a pull request.
  
  
  
  
-REQUIREMENTS
+## Requirements
 
 - Wordpress 3.2 or higher
 - Self-hosted version of WordPress (wordpress.org not wordpress.com)
@@ -12,35 +17,31 @@ REQUIREMENTS
 
 
 
-APPIFYWP INSTALLATION INSTRUCTIONS
+## Installation Instructions
 
 Here's a great writeup with screenshots on the installation process:
 http://www.buildingiphoneapps.com/2011/02/build-simple-yet-beautiful-web-presence.html
 
-1) Install WordPress
-
-  - If you have a shared hosting plan, there's a good chance they offer a "one-click-install" script. This makes installing WordPress and getting things setup very easy.
+1. Install WordPress
+	* If you have a shared hosting plan, there's a good chance they offer a "one-click-install" script. This makes installing WordPress and getting things setup very easy.
+	* If the above isn't an option and you'd like to go the manual route, this guide will help: http://codex.wordpress.org/Installing_WordPress
   
-  - If the above isn't an option and you'd like to go the manual route, this guide will help: http://codex.wordpress.org/Installing_WordPress
+2. Login to your WordPress site (wp-admin)
+	* yourdomain.com/wp-admin/
   
+3. Go to Appearance > Themes > Install Themes > Upload
+
+	* Select the appifyWP.zip from your hardDrive
   
-2) Login to your WordPress site (wp-admin)
+4. Activate AppifyWP
 
-  - yourdomain.com/wp-admin/
-  
-3) Go to Appearance > Themes > Install Themes > Upload
-
-  - Select the appifyWP.zip from your hardDrive
-  
-4) Activate AppifyWP
-
-5) Visit your site and follow the Getting Started guide
+5. Visit your site and follow the Getting Started guide
 
 
 
 
 
-TIPS & NOTES 
+## Tips & Notes
 
 - If you're adding AppifyWP to an existing site, it's highly recommended that you always backup your WordPress site (files and database) before activating a new theme or making updates.
 
@@ -51,7 +52,7 @@ TIPS & NOTES
 
 
 
-APPIFYWP UPGRADE INSTRUCTIONS
+## Upgrade Instructions
 
 IMPORTANT UPGRADE NOTE: If you've made any customizations to the theme files (*.php, *.css, *.js), including custom_styles.css, your changes will not be in the upgraded version. You will have to fetch your changes from the old version and bring them into the new version.
 
@@ -65,12 +66,12 @@ ALSO: It's always a good idea to backup your site and theme files before an upgr
 
 
 
-BBPRESS INSTALLATION INSTRUCTIONS
+## bbPress Installation Instructions
 
 The included bbpress folder is a child theme for adding a forum to your AppifyWP powered site.
 
-1) Install and activate AppifyWP
-2) Install the bbPress WordPress Plugin. Visit yoursite.com/forums and confirm they look like crap. Thats ok, proceed below...
-3) Copy the appifyWP_bbpress folder out of the "!Extras" folder and into the themes directory on your server (/wp-content/themes/) Do not put it inside the AppifyWP folder.
-4) Go to wp-admin > Appearance > Themes, you should see the AppifyWP bbPress child theme in your list of themes. Activate it.
-5) now visit the forums section on your site and verify that the child theme styles have been applied and they no longer look like crap.
+1. Install and activate AppifyWP
+2. Install the bbPress WordPress Plugin. Visit yoursite.com/forums and confirm they look like crap. Thats ok, proceed below...
+3. Copy the appifyWP_bbpress folder out of the "!Extras" folder and into the themes directory on your server (/wp-content/themes/) Do not put it inside the AppifyWP folder.
+4. Go to wp-admin > Appearance > Themes, you should see the AppifyWP bbPress child theme in your list of themes. Activate it.
+5. now visit the forums section on your site and verify that the child theme styles have been applied and they no longer look like crap.
