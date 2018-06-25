@@ -46,7 +46,7 @@
 
 
 <?php if ( $apfy_fontTheme == 'lobsterCabin') { ?>
-   <link href='http://fonts.googleapis.com/css?family=Lobster|Cabin' rel='stylesheet' type='text/css'>
+   <link href='https://fonts.googleapis.com/css?family=Lobster|Cabin' rel='stylesheet' type='text/css'>
    <style type="text/css">
    body {
      font-family: 'Cabin', Helvetica, Arial, sans-serif;
@@ -58,7 +58,7 @@
    </style>
 <?php } elseif ( $apfy_fontTheme == 'arvoPTsans') { ?>
 
-   <link href='http://fonts.googleapis.com/css?family=Arvo|PT+Sans' rel='stylesheet' type='text/css'>
+   <link href='https://fonts.googleapis.com/css?family=Arvo|PT+Sans' rel='stylesheet' type='text/css'>
    <style type="text/css">
    body {
      font-family: 'PT Sans', Helvetica, Arial, sans-serif;
@@ -70,7 +70,7 @@
    </style>
 <?php } elseif ( $apfy_fontTheme == 'ubuntuVollkorn') { ?>
 
-   <link href='http://fonts.googleapis.com/css?family=Ubuntu:bold|Vollkorn' rel='stylesheet' type='text/css'>
+   <link href='https://fonts.googleapis.com/css?family=Ubuntu:bold|Vollkorn' rel='stylesheet' type='text/css'>
    
    <style type="text/css">
    body {
@@ -83,7 +83,7 @@
    </style>
 <?php } elseif ( $apfy_fontTheme == 'droid') { ?>
 
-   <link href='http://fonts.googleapis.com/css?family=Droid+Serif|Droid+Sans' rel='stylesheet' type='text/css'>
+   <link href='https://fonts.googleapis.com/css?family=Droid+Serif|Droid+Sans' rel='stylesheet' type='text/css'>
    
    <style type="text/css">
    body {
